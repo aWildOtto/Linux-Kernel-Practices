@@ -1,8 +1,11 @@
 # CMPT 300 Project 4
-A Linux kernel programming project
 
+A Linux kernel programming project
 
-You'll find two custom Linux system call in cs300 directory
+## Where is the code?
+This is a kernel patch. You can patch your Linux kernel safely with the patch.diff file. In fact paying attention to the file you can find the C code within
+
+## This project includes two custom Linux system call
 - array_stats
 returns a struct containing the max, min and sum in an array
 (which is completely unnecessary to write but this is meant to be a kernel exploration)
