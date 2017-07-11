@@ -3,7 +3,7 @@
 A Linux kernel programming project
 
 ## Where is the code?
-This is a kernel patch. You can patch your Linux kernel safely with the patch.diff file. In fact paying attention to the file you can find the C code within
+This is a kernel patch. You can patch your Linux kernel using the patch.diff file so your kernel have two awesome(?) new  custom system calls as described below. In fact paying attention to the file you can find the C code within
 
 ## This project includes two custom Linux system call
 - array_stats
